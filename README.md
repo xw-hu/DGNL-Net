@@ -8,7 +8,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ***
 
-Please find the code of conference version at [https://github.com/xw-hu/DAF-Net](https://github.com/xw-hu/DAF-Net).      
+Please find the code of the conference version at [https://github.com/xw-hu/DAF-Net](https://github.com/xw-hu/DAF-Net).      
 
 ***
 
