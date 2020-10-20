@@ -66,6 +66,6 @@ Clone this repository:
 
 ## Evaluation
 
-Please find the evaluation code at [https://github.com/xw-hu/DAF-Net](https://github.com/xw-hu/DAF-Net).
+Please find the evaluation code at [https://github.com/xw-hu/DAF-Net](https://github.com/xw-hu/DAF-Net).                                       
 Enter the `DAF-Net/examples/` and run `evaluate_raincityscapes.m` in Matlab. 
 
