@@ -33,6 +33,10 @@ Our RainCityscapes dataset is available for download at the [Cityscapes website]
 &nbsp;&nbsp;&nbsp;&nbsp;  pages={8022--8031},      
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2019}      
 }
+
+## Prerequisites
+* Python 3.5
+* PyTorch 1.0
         
 ## Installation
 
