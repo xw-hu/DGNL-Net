@@ -18,12 +18,14 @@ Our RainCityscapes dataset is available for download at the [Cityscapes website]
 
 ## Citations
 
-@article{hu2020single,      
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Wang, Tianyu and Fu, Chi-Wing and Heng, Pheng-Ann},            
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features},          
-&nbsp;&nbsp;&nbsp;&nbsp;  journal = {IEEE Transactions on Image Processing},      
-&nbsp;&nbsp;&nbsp;&nbsp;  year = {2020},           
-&nbsp;&nbsp;&nbsp;&nbsp;  note = {to appear}                       
+@article{hu2021single,                    
+&nbsp;&nbsp;&nbsp;&nbsp;   title={Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features},                
+&nbsp;&nbsp;&nbsp;&nbsp;   author={Hu, Xiaowei and Zhu, Lei and Wang, Tianyu and Fu, Chi-Wing and Heng, Pheng-Ann},               
+&nbsp;&nbsp;&nbsp;&nbsp;   journal={IEEE Transactions on Image Processing},              
+&nbsp;&nbsp;&nbsp;&nbsp;   volume={30},                
+&nbsp;&nbsp;&nbsp;&nbsp;   pages={1759--1770},            
+&nbsp;&nbsp;&nbsp;&nbsp;   year={2021},              
+&nbsp;&nbsp;&nbsp;&nbsp;   publisher={IEEE}              
 }
 
 @InProceedings{Hu_2019_CVPR,      
