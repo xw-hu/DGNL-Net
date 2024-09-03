@@ -1,4 +1,4 @@
-# DGNL-Net
+# DGNL-Net and RainCityscapes
 
 # Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features
 
@@ -17,24 +17,25 @@ Please find the code of the conference version at [https://github.com/xw-hu/DAF-
 Our RainCityscapes dataset is available for download at the [Cityscapes website](https://www.cityscapes-dataset.com/downloads/).
 
 ## Citations
-
+```
 @article{hu2021single,                    
-&nbsp;&nbsp;&nbsp;&nbsp;   title={Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features},                
-&nbsp;&nbsp;&nbsp;&nbsp;   author={Hu, Xiaowei and Zhu, Lei and Wang, Tianyu and Fu, Chi-Wing and Heng, Pheng-Ann},               
-&nbsp;&nbsp;&nbsp;&nbsp;   journal={IEEE Transactions on Image Processing},              
-&nbsp;&nbsp;&nbsp;&nbsp;   volume={30},                
-&nbsp;&nbsp;&nbsp;&nbsp;   pages={1759--1770},            
-&nbsp;&nbsp;&nbsp;&nbsp;   year={2021},              
-&nbsp;&nbsp;&nbsp;&nbsp;   publisher={IEEE}              
+   title={Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features},                
+   author={Hu, Xiaowei and Zhu, Lei and Wang, Tianyu and Fu, Chi-Wing and Heng, Pheng-Ann},               
+   journal={IEEE Transactions on Image Processing},              
+   volume={30},                
+   pages={1759--1770},            
+   year={2021}         
 }
-
+```
+```
 @InProceedings{Hu_2019_CVPR,      
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Heng, Pheng-Ann},      
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Depth-Attentional Features for Single-Image Rain Removal},      
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-&nbsp;&nbsp;&nbsp;&nbsp;  pages={8022--8031},      
-&nbsp;&nbsp;&nbsp;&nbsp;  year = {2019}      
+  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Heng, Pheng-Ann},      
+  title = {Depth-Attentional Features for Single-Image Rain Removal},      
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+  pages={8022--8031},      
+  year = {2019}      
 }
+```
 
 ## Prerequisites
 * Python 3.5
